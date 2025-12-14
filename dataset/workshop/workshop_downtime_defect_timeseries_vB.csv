@@ -1,0 +1,91 @@
+timestamp,shift,machine_id,downtime_minutes,downtime_type,downtime_reason,total_output,defect_units,defect_rate,defect_type,avg_temperature,avg_vibration,energy_consumption
+2025-03-01 07:00,Pagi,M01,0,Tidak ada,-,532,8,1.5,Dimensi,44.6,0.024,118
+2025-03-01 15:00,Siang,M01,0,Tidak ada,-,507,3,0.59,Dimensi,45.8,0.026,116
+2025-03-01 23:00,Malam,M01,49,Teknis,Overheat,350,24,6.86,Retak,61.5,0.098,110
+2025-03-02 07:00,Pagi,M01,0,Tidak ada,-,517,2,0.39,Dimensi,44.8,0.026,111
+2025-03-02 15:00,Siang,M01,9,Operasional,Material tidak stabil,490,5,1.02,Finishing,47.9,0.027,112
+2025-03-02 23:00,Malam,M01,38,Teknis,Suhu tinggi,350,26,7.43,Retak,62.1,0.089,110
+2025-03-03 07:00,Pagi,M01,0,Tidak ada,-,520,4,0.77,Dimensi,43.8,0.024,114
+2025-03-03 15:00,Siang,M01,5,Operasional,Penyesuaian material,479,7,1.46,Dimensi,44.9,0.027,110
+2025-03-03 23:00,Malam,M01,46,Teknis,Bearing panas,350,30,8.57,Dimensi,63.2,0.1,110
+2025-03-04 07:00,Pagi,M01,0,Tidak ada,-,523,2,0.38,Finishing,44.6,0.025,116
+2025-03-04 15:00,Siang,M01,0,Tidak ada,-,506,3,0.59,Finishing,46.1,0.024,110
+2025-03-04 23:00,Malam,M01,0,Tidak ada,-,442,9,2.04,Dimensi,56.7,0.041,110
+2025-03-05 07:00,Pagi,M01,0,Tidak ada,-,534,5,0.94,Retak,45.1,0.024,119
+2025-03-05 15:00,Siang,M01,0,Tidak ada,-,486,7,1.44,Dimensi,46.2,0.026,110
+2025-03-05 23:00,Malam,M01,36,Teknis,Overheat,350,21,6.0,Retak,62.8,0.086,110
+2025-03-06 07:00,Pagi,M01,0,Tidak ada,-,548,8,1.46,Finishing,44.0,0.025,120
+2025-03-06 15:00,Siang,M01,0,Tidak ada,-,496,2,0.4,Dimensi,47.0,0.028,112
+2025-03-06 23:00,Malam,M01,0,Tidak ada,-,409,8,1.96,Dimensi,59.1,0.038,110
+2025-03-07 07:00,Pagi,M01,0,Tidak ada,-,521,4,0.77,Dimensi,44.3,0.024,112
+2025-03-07 15:00,Siang,M01,14,Operasional,Penyesuaian material,489,8,1.64,Retak,45.7,0.027,110
+2025-03-07 23:00,Malam,M01,32,Teknis,Suhu tinggi,350,20,5.71,Retak,60.1,0.086,110
+2025-03-08 07:00,Pagi,M01,0,Tidak ada,-,532,4,0.75,Finishing,44.4,0.025,120
+2025-03-08 15:00,Siang,M01,0,Tidak ada,-,486,5,1.03,Dimensi,47.0,0.028,111
+2025-03-08 23:00,Malam,M01,39,Teknis,Overheat,356,32,8.99,Retak,62.4,0.09,110
+2025-03-09 07:00,Pagi,M01,0,Tidak ada,-,512,10,1.95,Dimensi,44.7,0.026,111
+2025-03-09 15:00,Siang,M01,0,Tidak ada,-,471,10,2.12,Retak,46.4,0.029,110
+2025-03-09 23:00,Malam,M01,41,Teknis,Overheat,351,11,3.13,Retak,60.1,0.091,110
+2025-03-10 07:00,Pagi,M01,0,Tidak ada,-,511,6,1.17,Dimensi,44.4,0.024,113
+2025-03-10 15:00,Siang,M01,11,Operasional,Material terlambat,462,5,1.08,Finishing,44.6,0.027,110
+2025-03-10 23:00,Malam,M01,0,Tidak ada,-,387,8,2.07,Finishing,59.7,0.041,110
+2025-03-11 07:00,Pagi,M01,0,Tidak ada,-,507,4,0.79,Dimensi,44.4,0.025,110
+2025-03-11 15:00,Siang,M01,0,Tidak ada,-,492,4,0.81,Retak,46.7,0.028,110
+2025-03-11 23:00,Malam,M01,0,Tidak ada,-,405,10,2.47,Finishing,57.4,0.043,110
+2025-03-12 07:00,Pagi,M01,0,Tidak ada,-,513,2,0.39,Retak,44.5,0.025,112
+2025-03-12 15:00,Siang,M01,0,Tidak ada,-,513,4,0.78,Finishing,47.0,0.027,110
+2025-03-12 23:00,Malam,M01,33,Teknis,Overheat,362,33,9.12,Retak,61.1,0.082,110
+2025-03-13 07:00,Pagi,M01,0,Tidak ada,-,513,6,1.17,Finishing,44.5,0.025,113
+2025-03-13 15:00,Siang,M01,11,Operasional,Setup lama,466,4,0.86,Finishing,47.4,0.028,110
+2025-03-13 23:00,Malam,M01,0,Tidak ada,-,425,4,0.94,Finishing,57.7,0.046,110
+2025-03-14 07:00,Pagi,M01,0,Tidak ada,-,521,3,0.58,Finishing,45.4,0.024,110
+2025-03-14 15:00,Siang,M01,0,Tidak ada,-,472,7,1.48,Retak,46.6,0.028,110
+2025-03-14 23:00,Malam,M01,0,Tidak ada,-,410,5,1.22,Finishing,57.6,0.04,110
+2025-03-15 07:00,Pagi,M01,0,Tidak ada,-,537,5,0.93,Dimensi,44.6,0.025,116
+2025-03-15 15:00,Siang,M01,7,Operasional,Penyesuaian material,487,4,0.82,Finishing,46.0,0.027,110
+2025-03-15 23:00,Malam,M01,51,Teknis,Bearing panas,350,38,10.86,Retak,62.3,0.103,110
+2025-03-16 07:00,Pagi,M01,0,Tidak ada,-,522,5,0.96,Dimensi,44.5,0.026,115
+2025-03-16 15:00,Siang,M01,0,Tidak ada,-,484,7,1.45,Retak,45.3,0.028,110
+2025-03-16 23:00,Malam,M01,30,Teknis,Overheat,355,9,2.54,Retak,60.7,0.081,110
+2025-03-17 07:00,Pagi,M01,0,Tidak ada,-,523,5,0.96,Retak,45.4,0.025,115
+2025-03-17 15:00,Siang,M01,0,Tidak ada,-,482,5,1.04,Retak,46.3,0.029,110
+2025-03-17 23:00,Malam,M01,25,Teknis,Bearing panas,350,21,6.0,Retak,61.8,0.072,110
+2025-03-18 07:00,Pagi,M01,0,Tidak ada,-,521,4,0.77,Finishing,45.3,0.024,113
+2025-03-18 15:00,Siang,M01,4,Operasional,Material terlambat,487,4,0.82,Dimensi,46.1,0.026,111
+2025-03-18 23:00,Malam,M01,29,Teknis,Suhu tinggi,350,19,5.43,Dimensi,63.0,0.082,110
+2025-03-19 07:00,Pagi,M01,0,Tidak ada,-,523,4,0.76,Finishing,45.3,0.026,118
+2025-03-19 15:00,Siang,M01,17,Operasional,Penyesuaian material,470,9,1.91,Dimensi,46.3,0.024,110
+2025-03-19 23:00,Malam,M01,29,Teknis,Overheat,368,23,6.25,Retak,61.2,0.081,110
+2025-03-20 07:00,Pagi,M01,0,Tidak ada,-,529,7,1.32,Dimensi,44.6,0.026,114
+2025-03-20 15:00,Siang,M01,0,Tidak ada,-,509,6,1.18,Finishing,45.1,0.028,110
+2025-03-20 23:00,Malam,M01,37,Teknis,Bearing panas,350,10,2.86,Retak,63.1,0.085,110
+2025-03-21 07:00,Pagi,M01,0,Tidak ada,-,509,3,0.59,Finishing,44.9,0.026,114
+2025-03-21 15:00,Siang,M01,0,Tidak ada,-,486,5,1.03,Finishing,47.4,0.027,110
+2025-03-21 23:00,Malam,M01,43,Teknis,Overheat,350,27,7.71,Retak,60.2,0.091,110
+2025-03-22 07:00,Pagi,M01,0,Tidak ada,-,532,4,0.75,Finishing,44.5,0.025,115
+2025-03-22 15:00,Siang,M01,0,Tidak ada,-,477,5,1.05,Dimensi,45.8,0.026,110
+2025-03-22 23:00,Malam,M01,33,Teknis,Overheat,350,26,7.43,Retak,61.3,0.073,110
+2025-03-23 07:00,Pagi,M01,4,Operasional,Setup lama,525,7,1.33,Finishing,44.4,0.025,111
+2025-03-23 15:00,Siang,M01,9,Operasional,Material tidak stabil,470,5,1.06,Retak,46.1,0.027,110
+2025-03-23 23:00,Malam,M01,0,Tidak ada,-,393,9,2.29,Dimensi,59.6,0.041,110
+2025-03-24 07:00,Pagi,M01,0,Tidak ada,-,525,6,1.14,Retak,45.9,0.024,120
+2025-03-24 15:00,Siang,M01,7,Operasional,Penyesuaian material,478,4,0.84,Finishing,44.9,0.027,110
+2025-03-24 23:00,Malam,M01,34,Teknis,Bearing panas,350,10,2.86,Retak,59.4,0.083,110
+2025-03-25 07:00,Pagi,M01,0,Tidak ada,-,526,4,0.76,Finishing,44.9,0.025,111
+2025-03-25 15:00,Siang,M01,0,Tidak ada,-,492,5,1.02,Finishing,46.0,0.03,111
+2025-03-25 23:00,Malam,M01,33,Teknis,Bearing panas,363,20,5.51,Retak,61.5,0.084,110
+2025-03-26 07:00,Pagi,M01,0,Tidak ada,-,525,9,1.71,Dimensi,44.6,0.026,117
+2025-03-26 15:00,Siang,M01,0,Tidak ada,-,477,5,1.05,Dimensi,45.9,0.027,110
+2025-03-26 23:00,Malam,M01,44,Teknis,Suhu tinggi,350,44,12.57,Retak,61.8,0.091,110
+2025-03-27 07:00,Pagi,M01,0,Tidak ada,-,527,4,0.76,Retak,45.3,0.025,115
+2025-03-27 15:00,Siang,M01,0,Tidak ada,-,492,3,0.61,Dimensi,46.3,0.029,116
+2025-03-27 23:00,Malam,M01,48,Teknis,Overheat,350,23,6.57,Dimensi,61.9,0.095,110
+2025-03-28 07:00,Pagi,M01,0,Tidak ada,-,508,7,1.38,Finishing,44.1,0.024,110
+2025-03-28 15:00,Siang,M01,0,Tidak ada,-,507,6,1.18,Retak,45.4,0.026,112
+2025-03-28 23:00,Malam,M01,36,Teknis,Suhu tinggi,350,20,5.71,Dimensi,59.2,0.087,110
+2025-03-29 07:00,Pagi,M01,0,Tidak ada,-,543,3,0.55,Finishing,45.1,0.026,116
+2025-03-29 15:00,Siang,M01,0,Tidak ada,-,492,6,1.22,Dimensi,45.9,0.027,111
+2025-03-29 23:00,Malam,M01,42,Teknis,Suhu tinggi,350,31,8.86,Dimensi,60.2,0.085,110
+2025-03-30 07:00,Pagi,M01,0,Tidak ada,-,527,4,0.76,Finishing,44.6,0.025,111
+2025-03-30 15:00,Siang,M01,0,Tidak ada,-,506,3,0.59,Finishing,47.4,0.025,114
+2025-03-30 23:00,Malam,M01,53,Teknis,Overheat,350,23,6.57,Retak,59.7,0.094,110
